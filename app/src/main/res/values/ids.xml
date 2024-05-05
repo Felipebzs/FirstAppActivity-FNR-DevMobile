@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="your_list_view_id" type="id" />
+    <item name="your_name_edit_text_id" type="id" />
+    <item name="your_phone_number_edit_text_id" type="id" />
+    <item name="your_add_person_button_id" type="id" />
+</resources>
